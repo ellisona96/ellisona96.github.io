@@ -64,6 +64,16 @@
       ]
     }
   ],
+  {
+      "name": "Toolsets/Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Excel",
+        "Word",
+        "Power Point"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
