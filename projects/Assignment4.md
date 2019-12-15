@@ -1,15 +1,14 @@
 ---
 layout: Assignment4
 type: Assignment4
-permalink: projects/micromouse
+permalink: projects/Assignment4
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-14
-labels:
 summary: My Assignment 4 screencast and progress check
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+
 </div>
 
 1.  Describe the web-application you intend to build (in detail please!)
