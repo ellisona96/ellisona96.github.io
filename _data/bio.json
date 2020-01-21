@@ -6,7 +6,7 @@
     "email": "ellisona@hawaii.edu",
     "phone": "808-721-4824",
     "website": "https://ellisona96.github.io",
-    "summary": "I am studying MIS at the University of Hawaii at Manoa.",
+    "summary": "I am studying MIS at the University of Hawaii at Manoa. I am expecting to graduate in Spring 2021",
     "location": {
       "address": "721 10th Avenue",
       "postalCode": "96816",
@@ -67,7 +67,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Fall, 2020)",
+      "area": "Management Information Systems (expected Spring, 2021)",
       "studyType": "B.B.A.",
       "startDate": "2015-09-01",
       "endDate": "Present",
